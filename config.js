@@ -5,7 +5,7 @@
 // ============================================================
 window.APP_CONFIG = {
   // Heading shown at the top of every page.
-  TEST_TITLE: "iBT Reading Mock Entry Test",
+  TEST_TITLE: "iBT Reading Midterm Test",
 
   // Paste your Google Apps Script "Web app URL" here so scores are
   // recorded in your Google Sheet. It looks like:
